@@ -20,7 +20,7 @@
 <tr><td>One Piece Sammelschuber 8: Dressrosa (Bände 71–80)</td><td>978-3-551-80754-0</td><td><img src="https://covers.openlibrary.org/b/isbn/9783551807540-L.jpg" width="80"></td><td></td><td></td></tr>
 </table>
 
-### Databooks & Guides
+### Weitere Mangas & Spin-Offs
 
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
@@ -29,12 +29,6 @@
 <tr><td>One Piece – Blue (Grand Data File)</td><td>978-3-551-77436-1</td><td><img src="https://covers.openlibrary.org/b/isbn/9783551774361-L.jpg" width="80"></td><td></td><td></td></tr>
 <tr><td>One Piece – Yellow (Grand Elements)</td><td>978-3-551-77658-7</td><td><img src="http://books.google.com/books/content?id=D3kkPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width="80"></td><td></td><td></td></tr>
 <tr><td>One Piece – Green (Secret Pieces)</td><td>978-3-551-76295-5</td><td><img src="https://covers.openlibrary.org/b/isbn/9783551762955-L.jpg" width="80"></td><td></td><td></td></tr>
-</table>
-
-### Spin-offs
-
-<table>
-<tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
 <tr><td>Sanjis Food Wars</td><td>978-3-551-75370-0</td><td>–</td><td></td><td></td></tr>
 <tr><td>One Piece Episode A, Band 1</td><td>978-3-551-71259-2</td><td><img src="https://covers.openlibrary.org/b/isbn/9783551712592-L.jpg" width="80"></td><td></td><td></td></tr>
 <tr><td>One Piece Episode A, Band 2</td><td>978-3-551-71260-8</td><td><img src="https://covers.openlibrary.org/b/isbn/9783551712608-L.jpg" width="80"></td><td></td><td></td></tr>
@@ -44,22 +38,20 @@
 
 ## Berserk
 
-### Master Edition (Panini Verlag)
-
-> 3-in-1 Hardcover-Ausgabe im Überformat (18 x 25,2 cm) mit Kunstledereinband und schwarzem Farbschnitt
+### Master Edition
 
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
-<tr><td>Berserk Master Edition 01 (Bände 1–3)</td><td>978-3-7416-4175-6</td><td>–</td><td></td><td></td></tr>
-<tr><td>Berserk Master Edition 02 (Bände 4–6)</td><td>978-3-7416-4176-3</td><td>–</td><td></td><td></td></tr>
-<tr><td>Berserk Master Edition 03 (Bände 7–9)</td><td>978-3-7416-4400-9</td><td>–</td><td></td><td></td></tr>
+<tr><td>Berserk Master Edition 01 (Bände 1–3)</td><td>978-3-7416-4175-6</td><td>https://images.thalia.media/00/-/97044791ba7b452b982921f3a45194bc/berserk-master-edition-01-gebundene-ausgabe-kentaro-miura.jpeg</td><td></td><td></td></tr>
+<tr><td>Berserk Master Edition 02 (Bände 4–6)</td><td>978-3-7416-4176-3</td><td>https://images.thalia.media/00/-/d46dcd8c6ed2479282dd75a777eeb5ea/berserk-master-edition-02-gebundene-ausgabe-kentaro-miura.jpeg</td><td></td><td></td></tr>
+<tr><td>Berserk Master Edition 03 (Bände 7–9)</td><td>978-3-7416-4400-9</td><td>https://images.thalia.media/00/-/74513a05e3114406a79c9d9e34765468/berserk-master-edition-03-gebundene-ausgabe-kentaro-miura.jpeg</td><td></td><td></td></tr>
 </table>
 
 ---
 
 ## One-Punch Man
 
-### Sammelschuber (Kazé / Crunchyroll Verlag)
+### Sammelschuber
 
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
@@ -75,10 +67,6 @@
 
 ## Gon
 
-### Collection Box – Ediz. speciale (Edizioni BD / J-POP, Italien)
-
-> Italienische Deluxe-Ausgabe im Großformat (22,4 x 15,9 cm), 1.050 Seiten, enthält die ital. Bände 1–3
-
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
 <tr><td>Gon. Collection box. Ediz. speciale (Bände 1–3)</td><td>978-8834902349</td><td><img src="http://books.google.com/books/content?id=HuebzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width="80"></td><td></td><td></td></tr>
@@ -87,10 +75,6 @@
 ---
 
 ## Solo Leveling
-
-### Einzelbände (Altraverse Verlag)
-
-> Hinweis: Solo Leveling ist ein Manhwa (koreanischer Comic), wird aber wie ein Manga von links nach rechts gelesen.
 
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
@@ -115,9 +99,7 @@
 
 ## Dragon Ball
 
-### Dragon Ball Massiv (Carlsen Verlag)
-
-> 3-in-1-Sammelbände der Originalserie, je ~500 Seiten, insgesamt 42 Tankōbon auf 14 Bände aufgeteilt
+### Dragon Ball Massiv
 
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
@@ -137,17 +119,7 @@
 <tr><td>Dragon Ball Massiv 14 (Tankōbon 40–42)</td><td>978-3-551-76768-4</td><td>–</td><td></td><td></td></tr>
 </table>
 
-### Toriyama Short Stories (Carlsen Verlag)
-
-<table>
-<tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
-<tr><td>Toriyama Shorts Massiv</td><td>978-3-551-71486-2</td><td><img src="http://books.google.com/books/content?id=Z1W_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width="80"></td><td></td><td></td></tr>
-<tr><td>Sandland (Toriyama Short Stories 8)</td><td>978-3-551-77410-1</td><td>–</td><td></td><td></td></tr>
-</table>
-
-### Dragon Ball Super – Sammelschuber (Carlsen Verlag)
-
-> Jeweils 5 Bände + exklusives Extra. Story von Akira Toriyama, gezeichnet von Toyotarou.
+### Dragon Ball Super – Sammelschuber
 
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
@@ -155,11 +127,17 @@
 <tr><td>Dragon Ball Super – Sammelschuber 2 (Bände 6–10)</td><td>978-3-551-73139-5</td><td>–</td><td></td><td></td></tr>
 </table>
 
+### Toriyama Short Stories
+
+<table>
+<tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
+<tr><td>Toriyama Shorts Massiv</td><td>978-3-551-71486-2</td><td><img src="http://books.google.com/books/content?id=Z1W_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width="80"></td><td></td><td></td></tr>
+<tr><td>Sandland (Toriyama Short Stories 8)</td><td>978-3-551-77410-1</td><td>–</td><td></td><td></td></tr>
+</table>
+
 ---
 
 ## Hunter x Hunter
-
-### Einzelbände (Carlsen Verlag)
 
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
@@ -171,10 +149,6 @@
 
 ## Death Note
 
-### Complete Box (Tokyopop, 2014)
-
-> Schmuckbox zum 10-jährigen Jubiläum. Enthält alle 13 Bände + exklusives Postkartenbuch mit allen Cover-Motiven. 2.816 Seiten, Maße: 20,3 × 13,4 × 21,6 cm. Autor: Tsugumi Ohba, Zeichner: Takeshi Obata.
-
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
 <tr><td>Death Note Complete Box (Bände 1–13 + Postkartenbuch)</td><td>978-3-8420-1151-9</td><td><img src="https://covers.openlibrary.org/b/isbn/9783842011519-L.jpg" width="80"></td><td></td><td></td></tr>
@@ -183,10 +157,6 @@
 ---
 
 ## The Promised Neverland
-
-### Einzelbände (Carlsen Verlag)
-
-> 20 Bände, abgeschlossen. Story: Kaiu Shirai, Zeichnungen: Posuka Demizu. Erschienen 2018–2021 auf Deutsch.
 
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
@@ -216,10 +186,6 @@
 
 ## Alice in Borderland
 
-### Doppelband-Edition (Hayabusa / Carlsen Verlag)
-
-> Erscheint als Doppelband-Edition (2 japanische Originalbände pro Heft), gesamt 9 Doppelbände für die komplette Serie (18 Originalbände). Von Haro Aso. Eigenes deutsches Cover-Design mit Spielkarten-Motiv + japanische Originalcover als Extra. AnimaniA Award 2024: Bester Manga International Shonen/Seinen.
-
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
 <tr><td>Alice in Borderland – Doppelband 1 (Originalbände 1–2)</td><td>978-3-551-62383-6</td><td><img src="http://books.google.com/books/content?id=EvqnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api" width="80"></td><td></td><td></td></tr>
@@ -232,10 +198,6 @@
 
 ## Yu-Gi-Oh!
 
-### Massiv-Edition (Carlsen Verlag)
-
-> 3-in-1-Sammelbände, je ~560–592 Seiten. Von Kazuki Takahashi. Komplette Serie in 13 Massivbänden (38 Originalbände). Neuauflage ab Oktober 2021.
-
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
 <tr><td>Yu-Gi-Oh! Massiv 1 (Originalbände 1–3)</td><td>978-3-551-02792-4</td><td>–</td><td></td><td></td></tr>
@@ -245,13 +207,6 @@
 
 ---
 
-## Weitere Serien
+## Weitere Manags
 
-> _(Folgt – weitere Regale noch nicht erfasst)_
-
----
-
-## Hinweise
-
-- Verlagsübersicht: **Carlsen** (One Piece, HxH, DB, Solo Leveling, Promised Neverland, Yu-Gi-Oh), **Panini** (Berserk), **Kazé/Crunchyroll** (One-Punch Man), **Altraverse** (Solo Leveling), **Tokyopop** (Death Note), **Hayabusa/Carlsen** (Alice in Borderland), **Edizioni BD** (Gon, Italienisch)
-- Cover-Bilder: verfügbare Covers von [OpenLibrary](https://openlibrary.org/developers/api) und [Google Books](https://developers.google.com/books); `–` = kein Cover in öffentlichen Quellen verfügbar
+> _(Folgt!)_
