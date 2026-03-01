@@ -42,9 +42,9 @@
 
 <table>
 <tr><th width="20%">Titel</th><th width="20%">ISBN</th><th width="20%">Cover</th><th width="20%">Gelesen</th><th width="20%">Bewertung</th></tr>
-<tr><td>Berserk Master Edition 01 (Bände 1–3)</td><td>978-3-7416-4175-6</td><td>https://images.thalia.media/00/-/97044791ba7b452b982921f3a45194bc/berserk-master-edition-01-gebundene-ausgabe-kentaro-miura.jpeg</td><td></td><td></td></tr>
-<tr><td>Berserk Master Edition 02 (Bände 4–6)</td><td>978-3-7416-4176-3</td><td>https://images.thalia.media/00/-/d46dcd8c6ed2479282dd75a777eeb5ea/berserk-master-edition-02-gebundene-ausgabe-kentaro-miura.jpeg</td><td></td><td></td></tr>
-<tr><td>Berserk Master Edition 03 (Bände 7–9)</td><td>978-3-7416-4400-9</td><td>https://images.thalia.media/00/-/74513a05e3114406a79c9d9e34765468/berserk-master-edition-03-gebundene-ausgabe-kentaro-miura.jpeg</td><td></td><td></td></tr>
+<tr><td>Berserk Master Edition 01 (Bände 1–3)</td><td>978-3-7416-4175-6</td><td><img src="https://images.thalia.media/00/-/97044791ba7b452b982921f3a45194bc/berserk-master-edition-01-gebundene-ausgabe-kentaro-miura.jpeg" width="80"></td><td></td><td></td></tr>
+<tr><td>Berserk Master Edition 02 (Bände 4–6)</td><td>978-3-7416-4176-3</td><td><img src="https://images.thalia.media/00/-/d46dcd8c6ed2479282dd75a777eeb5ea/berserk-master-edition-02-gebundene-ausgabe-kentaro-miura.jpeg" width="80"></td><td></td><td></td></tr>
+<tr><td>Berserk Master Edition 03 (Bände 7–9)</td><td>978-3-7416-4400-9</td><td><img src="https://images.thalia.media/00/-/74513a05e3114406a79c9d9e34765468/berserk-master-edition-03-gebundene-ausgabe-kentaro-miura.jpeg" width="80"></td><td></td><td></td></tr>
 </table>
 
 ---
